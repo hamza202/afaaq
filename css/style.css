@@ -6,7 +6,7 @@ body{
     direction: rtl;
     background: #F0F0F0;
     font-family: 'DroidSans', sans-serif;
-    height: 1000px;
+    height: 5000px;
 }
 a{
     text-decoration: none !important;
@@ -36,7 +36,10 @@ a{
     content: "\f106";
 }
 .nav-item.show a.dropdown-toggle{
-    color: #fff !important;
+    color: #8F2B41 !important;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #8F2B41;
 }
 .navbar a{
     transition: all 0.3s;
@@ -201,7 +204,7 @@ padding-right: 20px
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#ffffff', GradientType=1 );
 
 }
-.card1 .card1-container{
+.card1 .card1-container, .car2-title-container{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -229,6 +232,7 @@ z-index: 2;
 }
 .card-description{
     font-size: 21px;
+    padding-left: 30px;
 }
 .card-date{
     color: #95989A;
@@ -244,6 +248,53 @@ z-index: 2;
     border: #8f2b41 solid 4px;
 }
 /*End card1*/
+/*Start car2*/
+.card2{
+    border-radius: 3px;
+    overflow: hidden;
+}
+.card1-small .car2-title-container .big-title{
+    padding: 10px;
+    padding-top: 5px;
+    color: #fff;
+    font-size: 18px;
+}
+.card1-small .car2-title-container{
+    padding: 10px;
+}
+.card2-content-container{
+    background: #fff;
+    padding: 10px;
+    position: relative;
+}
+.card2-content-container p{
+    margin-bottom: 10px;
+}
+.card2-content-container a.car2-description{
+    color: #000;
+    transition: all 0.3s;
+}
+.card2-content-container a.car2-description:hover{
+    color: #8f2b41;
+}
+.card1-small .car2-title-container .hvr-outline-in:active:before, .hvr-outline-in:focus:before, .hvr-outline-in:hover:before {
+    top: -6px;
+    right: -6px;
+    bottom: -6px;
+    left: -6px;
+    border: #8f2b41 solid 3px;
+}
+.card2 .menu-open-button{
+    box-shadow: none;
+}
+.card2 .facebook_share_btn:hover ,.card2 .google_plus_share_btn:hover , .card2 .twitter_share_btn:hover {
+    background: #f0f0f0;
+}
+.card2 .menuShare{
+    left: 10px;
+    bottom: 0;
+}
+/*End Card2*/
 /*Start small card1*/
 .card1-small .big-title{
     font-size: 20px;
