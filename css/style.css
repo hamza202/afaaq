@@ -776,6 +776,31 @@ a {
 }
 
 /*end social share button*/
+/*Youtube card*/
+.youtube-icon-top{
+    position: absolute;
+    top: 7px;
+    left: 11px;
+    width: 31px;
+}
+.col-lg-5 .youtube-icon-top{
+    top: 12px;
+    left: 20px;
+    width: 44px;
+}
+.youtube-card-section  .card1-small .card-description{
+    font-size: 12px;
+}
+.youtube-card-section .col-lg-5 .card1-small .card-description{
+    font-size: 13px;
+}
+.youtube-card-section .card-description{
+    padding: 0;
+}
+.youtube-card-section .card1 .card1-container{
+    padding: 5px;
+}
+/*End youtube card*/
 /*Media Query Start*/
 @media (min-width: 1200px) {
     nav.navbar {
