@@ -916,7 +916,77 @@ a {
     border-radius: 0;
 }
 /*pagination  End*/
-
+.lg-outer,
+.lSSlideOuter {
+    direction: ltr;
+}
+.imageGallery li img{
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+}
+.lSPager.lSGallery li.youtube-th{
+    position: relative;
+}
+.lSPager.lSGallery li.youtube-th::before{
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 900;
+    content: "\f167";
+    color: #F44336;
+    font-size: 25px;
+    z-index: 500;
+    top: 0;
+    right: 7px;
+    position: absolute;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.imageGallery li.video-th{
+    position: relative;
+}
+.imageGallery li.video-th::before{
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 900;
+    content: "\f167";
+    color: #F44336;
+    font-size: 60px;
+    transform: translate(50% , -50%);
+    z-index: 500;
+    top:50%;
+    right: 50%;
+    position: absolute;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.single-title h3{
+    color: #8F2B41;
+    font-size: 20px;
+}
+.single-title h2{
+    font-size: 25px;
+}
+.single-card{
+    padding-bottom: 8px;
+}
+.card2.single-card .menuShare{
+    left: 0px;
+    bottom: -8px;
+}
+.card2.single-card .menu-open-button{
+    background: #FFFFFF;
+}
+.single-card{
+    position: relative;
+}
+.border-1{
+    border: 1px solid #b8b8b8;
+}
 /*Media Query Start*/
 @media (min-width: 1200px) {
     nav.navbar {
@@ -962,6 +1032,9 @@ a {
 @media (min-width: 992px) {
     .logo {
         position: relative;
+    }
+    .card-lg-2 .col-lg-9{
+        padding-left: 0;
     }
     .top-adw img{
         min-height: 114px;

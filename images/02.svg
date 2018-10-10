@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492.236 227.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        stroke-width: 0.5px;
+      }
+
+      .cls-2 {
+        fill: #757575;
+        font-size: 17px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_358" data-name="Group 358" transform="translate(-57 -288)">
+    <g id="Rectangle_603" data-name="Rectangle 603" class="cls-1" transform="translate(57 288)">
+      <rect class="cls-3" width="492.236" height="227.38"/>
+      <rect class="cls-4" x="0.25" y="0.25" width="491.736" height="226.88"/>
+    </g>
+    <text id="مساحة_اعلانية" data-name="مساحة اعلانية" class="cls-2" transform="translate(351 409)"><tspan x="-95.517" y="0">مساحة اعلانية</tspan></text>
+  </g>
+</svg>
