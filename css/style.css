@@ -987,6 +987,22 @@ a {
 .border-1{
     border: 1px solid #b8b8b8;
 }
+.primary-title{
+    font-weight: 600;
+    display: inline-block;
+    padding-bottom: 3px;
+    border-bottom: 3px dashed #8F2B41;
+
+}
+.red-color{
+    color: red;
+}
+.referendum-button.d-inline-block{
+    width: auto;
+    margin-top: 5px;
+    padding: 5px 15px;
+    font-weight: 500;
+}
 /*Media Query Start*/
 @media (min-width: 1200px) {
     nav.navbar {

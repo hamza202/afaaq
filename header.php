@@ -37,9 +37,9 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item nav-group-link">
-                        <a class="nav-link d-inline-block" href="#"><i class="fas fa-home"></i></a>
-                        <a class="nav-link d-inline-block" href="#"><i class="fas fa-user"></i> </a>
-                        <a class="nav-link d-inline-block" href="#"><i class="fas fa-envelope"></i> </a>
+                        <a class="nav-link d-inline-block" href="index.php"><i class="fas fa-home"></i></a>
+                        <a class="nav-link d-inline-block" href="about.php"><i class="fas fa-user"></i> </a>
+                        <a class="nav-link d-inline-block" href="contact.php"><i class="fas fa-envelope"></i> </a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle " href="#" role="button"

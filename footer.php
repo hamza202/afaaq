@@ -3,7 +3,7 @@
         <div class="py-15">
             <div class="row">
                 <div class="col-lg-4 text-lg-left text-center">
-                    <a class="d-inline-block send-news-btn" href="#">
+                    <a class="d-inline-block send-news-btn" href="send-news.php">
                         <i class="far fa-comment-alt"></i>
                         ارسل لنا خبر
                     </a>
