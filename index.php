@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <?php include 'style.php'?>
+    <?php include 'style.php' ?>
     <title>آفاق</title>
 </head>
 <body>
-<?php include 'header.php'?>
+<?php include 'header.php' ?>
 <div class="py-15">
     <div class="container-fluid pt-2">
         <div class="row">
@@ -882,120 +882,170 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-5 mb-3">
-                    <div class="card1 card1-small ">
-                        <i class="youtube-icon-top">
-                            <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                        </i>
-                        <div class="card-overly"></div>
-                        <div class="card1-container">
-                            <a href="#" class="hvr-backward">
-                                <p class="card-description mb-2 mt-2">
-                                    الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                </p>
-                            </a>
-                        </div>
-                        <img class="img-fluid" src="images/img1.svg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-7 ">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 pl-lg-0 mb-3">
-                            <div class="card1 card1-small">
-                                <i class="youtube-icon-top">
-                                    <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                                </i>
-                                <div class="card-overly"></div>
-                                <div class="card1-container">
-                                    <a href="#" class="hvr-backward">
-                                        <p class="card-description mb-2 mt-2">
-                                            الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                        </p>
-                                    </a>
-                                </div>
-                                <img class="img-fluid" src="images/img3.svg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 pl-lg-0 mb-3">
-                            <div class="card1 card1-small">
-                                <i class="youtube-icon-top">
-                                    <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                                </i>
-                                <div class="card-overly"></div>
-                                <div class="card1-container">
-                                    <a href="#" class="hvr-backward">
-                                        <p class="card-description mb-2 mt-2">
-                                            الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                        </p>
-                                    </a>
-                                </div>
-                                <img class="img-fluid" src="images/img3.svg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 pl-lg-0 mb-3">
-                            <div class="card1 card1-small">
-                                <i class="youtube-icon-top">
-                                    <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                                </i>
-                                <div class="card-overly"></div>
-                                <div class="card1-container">
-                                    <a href="#" class="hvr-backward">
-                                        <p class="card-description mb-2 mt-2">
-                                            الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                        </p>
-                                    </a>
-                                </div>
-                                <img class="img-fluid" src="images/img3.svg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 pl-lg-0 mb-3">
-                            <div class="card1 card1-small">
-                                <i class="youtube-icon-top">
-                                    <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                                </i>
-                                <div class="card-overly"></div>
-                                <div class="card1-container">
-                                    <a href="#" class="hvr-backward">
-                                        <p class="card-description mb-2 mt-2">
-                                            الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                        </p>
-                                    </a>
-                                </div>
-                                <img class="img-fluid" src="images/img3.svg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 pl-lg-0 mb-3">
-                            <div class="card1 card1-small">
-                                <i class="youtube-icon-top">
-                                    <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                                </i>
-                                <div class="card-overly"></div>
-                                <div class="card1-container">
-                                    <a href="#" class="hvr-backward">
-                                        <p class="card-description mb-2 mt-2">
-                                            الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                        </p>
-                                    </a>
-                                </div>
-                                <img class="img-fluid" src="images/img3.svg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 pl-lg-0 mb-3">
-                            <div class="card1 card1-small">
-                                <i class="youtube-icon-top">
-                                    <img class="img-fluid" src="images/icon/youtube.svg" alt="">
-                                </i>
-                                <div class="card-overly"></div>
-                                <div class="card1-container">
-                                    <a href="#" class="hvr-backward">
-                                        <p class="card-description mb-2 mt-2">
-                                            الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم السياسيين
-                                        </p>
-                                    </a>
-                                </div>
-                                <img class="img-fluid" src="images/img3.svg" alt="">
-                            </div>
-                        </div>
+                <div class="col-lg-12 ">
+                    <div class="demo-gallery">
+                        <ul id="video-gallery" class="row list-unstyled">
+                            <li class="video col-lg-3 col-md-6  mb-3" data-src="https://youtu.be/YD_gvR234qg">
+                                <a href="https://youtu.be/YD_gvR234qg" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6 mb-3"
+                                data-src="https://www.youtube.com/watch?v=Pq9yPrLWMyU"
+                                data-poster="https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video2-cover.jpg">
+                                <a href="https://www.youtube.com/watch?v=Pq9yPrLWMyU" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-2.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6  mb-3" data-src="https://youtu.be/YD_gvR234qg">
+                                <a href="https://youtu.be/YD_gvR234qg" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6  mb-3"
+                                data-src="https://www.youtube.com/watch?v=Pq9yPrLWMyU"
+                                data-poster="https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video2-cover.jpg">
+                                <a href="https://www.youtube.com/watch?v=Pq9yPrLWMyU" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-2.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6  mb-3" data-src="https://youtu.be/YD_gvR234qg">
+                                <a href="https://youtu.be/YD_gvR234qg" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6  mb-3"
+                                data-src="https://www.youtube.com/watch?v=Pq9yPrLWMyU"
+                                data-poster="https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video2-cover.jpg">
+                                <a href="https://www.youtube.com/watch?v=Pq9yPrLWMyU" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-2.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6  mb-3" data-src="https://youtu.be/YD_gvR234qg">
+                                <a href="https://youtu.be/YD_gvR234qg" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg">
+
+                                </a>
+                            </li>
+                            <li class="video col-lg-3 col-md-6  mb-3"
+                                data-src="https://www.youtube.com/watch?v=Pq9yPrLWMyU"
+                                data-poster="https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video2-cover.jpg">
+                                <a href="https://www.youtube.com/watch?v=Pq9yPrLWMyU" class="card1 card1-small d-block">
+                                    <i class="youtube-icon-top">
+                                        <img class="img-fluid" src="images/icon/youtube.svg" alt="">
+                                    </i>
+                                    <div class="card-overly"></div>
+                                    <div class="card1-container">
+                                        <div class="hvr-backward">
+                                            <p class="card-description mb-2 mt-2">
+                                                الأنظار تتجه للقاهرة وترقب إعلان «التهدئة» مع استمرار خلاف الخصوم
+                                                السياسيين
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img class="img-fluid"
+                                         src="https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-2.jpg">
+
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -2523,7 +2573,14 @@
         </div>
     </div>
 </section>
-<?php include 'footer.php'?>
+<?php include 'footer.php' ?>
 <?php include 'javasecript.php' ?>
+<script src="js/lg.js"></script>
+<script src="js/picturefill.min.js"></script>
+<script>
+    $('#video-gallery').lightGallery({
+        youtubePlayerParams: {autoplay: 1}
+    });
+</script>
 </body>
 </html>
